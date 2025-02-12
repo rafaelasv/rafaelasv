@@ -10,29 +10,18 @@
 
 - 🖥 Passionate about technology since I was young, I like creating new worlds on the web.
 
-<br/>
-
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://linkedin.com/in/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
 <br/>  
 
-## Working with:  
-<div align="center">  
-<a><img style="margin: 10px" src="https://github.com/user-attachments/assets/86bc470a-1977-4557-8dcd-92ca7e7d7ea2" alt="HTML5" height="50" /></a>  
-<a><img style="margin: 10px" src="https://github.com/user-attachments/assets/1fbb3d29-c710-42aa-9b00-82d2913ebf3d" alt="Python" height="40" /></a>  
-<a><img style="margin: 10px" src="https://github.com/user-attachments/assets/36daa719-5cd9-4dfe-bae9-df824beb5c22" alt="Java" height="50" /></a>  
-</div>  
+## Minhas Skills
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/>  
 
 
-## Github Stats  
+## ⭐ GitHub Stats
 <div align="center">
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelasv&cardType=github&bg_color=00000000&Text=000&title_color=C099F4&border_color=c099f4&card_width=200" alt="readme-typing-svg">
 
@@ -49,11 +38,8 @@
 
 <br/>  
 
-<br/>  
+---
+## Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-tavares-718534227/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rafaelatvf@gmail.com)
 
-  
-
-<br/>  
-
-
-<br />
