@@ -2,7 +2,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c099f4&width=435&lines=Self-taught+programmer;Exploring+the+world+of+programming" alt="Typing SVG" /></a>
 
-- 🎓 Currently studying Análise e Desenvolvimento de Sistemas on UNINTER.  
+- 🎓 Currently studying Systems Analysis and Development at UNINTER.  
   
 - 🌱 I'm working on my potfolio.  
   
