@@ -4,9 +4,7 @@
 
 - 🎓 Currently studying Systems Analysis and Development at UNINTER.  
   
-- 🌱 I'm working on my potfolio.  
-  
-- 🔭 Currently, I am discovering the world of AI as a hobby.  
+- 🌱 Currently, I'm working on my potfolio.  
 
 - 🖥 Passionate about technology since I was young, I like creating new worlds on the web.
 
