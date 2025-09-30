@@ -6,8 +6,6 @@
   
 - 🌱 Currently, I'm working on my potfolio.  
 
-- 🖥 Passionate about technology since I was young, I like creating new worlds on the web.
-
 <br/>  
 
 ## My Skills
