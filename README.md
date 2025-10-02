@@ -1,6 +1,7 @@
 ## 👩🏻‍💻 Rafaela Tavares ♡⸜(˃ ᵕ ˂ )⸝  
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c099f4&width=435&lines=Self-taught+programmer;Exploring+the+world+of+programming" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c099f4&width=435&lines=Front-end+Enthusiast;Exploring+the+world+of+programming" alt="Typing SVG" /></a>
+
 Hey there! ✨
 
 Passionate about technology and learning, I’m always looking for new challenges that push me to grow and evolve.
