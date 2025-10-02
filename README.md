@@ -2,9 +2,12 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c099f4&width=435&lines=Self-taught+programmer;Exploring+the+world+of+programming" alt="Typing SVG" /></a>
 
-- 🎓 Currently studying Systems Analysis and Development at UNINTER.  
-  
-- 🌱 Currently, I'm working on my potfolio.  
+Hey there! ✨
+
+Passionate about technology and learning, I’m always looking for new challenges that push me to grow and evolve.
+My current focus is on **Front-End development**, working with technologies like **HTML, CSS, JavaScript, React, Next.js, and Node.js**. I’m eager to continue improving my skills, writing clean and scalable code, and following best practices in the industry.
+
+🚀 Let’s connect and exchange knowledge! 
 
 <br/>  
 
