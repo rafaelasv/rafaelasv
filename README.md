@@ -5,9 +5,9 @@
 Hey there! ✨
 
 Passionate about technology and learning, I’m always looking for new challenges that push me to grow and evolve.
-My current focus is on **Front-End development**, working with technologies like **HTML, CSS, JavaScript, React**. I’m eager to continue improving my skills, writing clean and scalable code, and following best practices in the industry.
+My current focus is on **Front-End development**, working with technologies like **HTML, CSS, JavaScript, React**. I’m eager to continue improving my skills!
 
-🚀 Let’s connect and exchange knowledge! 
+🚀 Let’s connect and exchange knowledge.
 
 ---
 ## My Skills
