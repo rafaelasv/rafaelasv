@@ -2,7 +2,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c099f4&width=435&lines=ADS+Student;Support+Engineer+in+the+making;Building+with+AI" alt="Typing SVG" /></a>
 
-Hey there! ✨
+Hey there!
 
 I'm a Systems Analysis student with hands-on experience in technical support and a genuine obsession with using technology to eliminate inefficiency. I've automated workflows, built internal tools with AI, and I'm currently learning React while building projects that combine support engineering with AI integration.
 
