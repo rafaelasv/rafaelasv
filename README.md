@@ -14,11 +14,11 @@ I'm looking for internship opportunities in Support Engineering, Backend or Full
 
 ### About Me
 
-- 💻 Background in technical support and web development  
-- 🤖 Passionate about automating repetitive tasks using AI  
-- ⚙️ Building tools that reduce manual work and improve efficiency  
-- 📚 Currently studying Systems Analysis and Development  
-- 🚀 Learning React, improving SQL and exploring real-world problem solving  
+✧ 💻 Background in technical support and web development  
+✧ 🤖 Passionate about automating repetitive tasks using AI  
+✧ ⚙️ Building tools that reduce manual work and improve efficiency  
+✧ 📚 Currently studying Systems Analysis and Development  
+✧ 🚀 Learning React, improving SQL and exploring real-world problem solving  
 
 ---
 
@@ -40,13 +40,13 @@ I'm looking for internship opportunities in Support Engineering, Backend or Full
 
 ### Projects
 
-🔹 **NFS-e Automation Tool**  
+✧ **NFS-e Automation Tool**  
 Automates service invoice generation for small businesses  
 
-🔹 **AI Workflow Automation**  
+✧ **AI Workflow Automation**  
 Scripts and tools to eliminate repetitive tasks  
 
-🔹 **Support + AI Experiments**  
+✧ **Support + AI Experiments**  
 Using AI to improve support efficiency and responses  
 
 ---
