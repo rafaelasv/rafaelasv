@@ -14,11 +14,11 @@ I'm looking for internship opportunities in Support Engineering, Backend or Full
 
 ### About Me
 
-✧ 💻 Background in technical support and web development  
-✧ 🤖 Passionate about automating repetitive tasks using AI  
-✧ ⚙️ Building tools that reduce manual work and improve efficiency  
-✧ 📚 Currently studying Systems Analysis and Development  
-✧ 🚀 Learning React, improving SQL and exploring real-world problem solving  
+- Background in technical support and web development  
+- Passionate about automating repetitive tasks using AI  
+- Building tools that reduce manual work and improve efficiency  
+- Currently studying Systems Analysis and Development  
+- Learning React, improving SQL and exploring real-world problem solving  
 
 ---
 
