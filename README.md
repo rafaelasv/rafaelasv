@@ -1,4 +1,4 @@
-<h2 align="center">Hey 👋 I'm Rafaela</h2>
+<h2 align="center">Hey ♡⸜(˃ ᵕ ˂ )⸝ I'm Rafaela</h2>
 
 <p align="center">Support Engineer in the making • Building solutions with AI</p>
 
@@ -21,8 +21,6 @@ I'm looking for internship opportunities in Support Engineering, Backend or Full
 - 🚀 Learning React, improving SQL and exploring real-world problem solving  
 
 ---
-
-### 🛠 Tech Stack
 
 ### 🛠 Tech Stack
 
