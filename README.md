@@ -4,7 +4,7 @@
 
 ---
 
-### 🌟 Open to Opportunities
+### Open to Opportunities
 
 I'm looking for internship opportunities in Support Engineering, Backend or Fullstack roles, where I can solve real problems, automate workflows, and grow in fast-paced environments.
 
@@ -12,7 +12,7 @@ I'm looking for internship opportunities in Support Engineering, Backend or Full
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 - 💻 Background in technical support and web development  
 - 🤖 Passionate about automating repetitive tasks using AI  
@@ -22,7 +22,7 @@ I'm looking for internship opportunities in Support Engineering, Backend or Full
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" title="HTML5"/>
@@ -38,7 +38,7 @@ I'm looking for internship opportunities in Support Engineering, Backend or Full
 
 ---
 
-### 🚀 Projects
+### Projects
 
 🔹 **NFS-e Automation Tool**  
 Automates service invoice generation for small businesses  
