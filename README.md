@@ -4,14 +4,6 @@
 
 ---
 
-### Open to Opportunities
-
-I'm looking for internship opportunities in Support Engineering, Backend or Fullstack roles, where I can solve real problems, automate workflows, and grow in fast-paced environments.
-
-✉︎ **Reach me at**: [LinkedIn](https://www.linkedin.com/in/rafaela-s-tavares/)
-
----
-
 ### About Me
 
 - Background in technical support and web development  
