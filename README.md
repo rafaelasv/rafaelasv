@@ -6,10 +6,10 @@
 
 ### About Me
 
+- Currently studying Systems Analysis and Development 
 - Background in technical support and web development  
 - Passionate about automating repetitive tasks using AI  
 - Building tools that reduce manual work and improve efficiency  
-- Currently studying Systems Analysis and Development  
 - Learning React, improving SQL and exploring real-world problem solving  
 
 ---
