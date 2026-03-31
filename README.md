@@ -1,4 +1,4 @@
-<h2 align="center">Hey ♡⸜(˃ ᵕ ˂ )⸝ I'm Rafaela</h2>
+<h2 align="center">Hey ♡ I'm Rafaela</h2>
 
 <p align="center">Support Engineer in the making • Building solutions with AI</p>
 
