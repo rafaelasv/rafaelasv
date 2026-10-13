@@ -1,16 +1,15 @@
 <h2 align="center">Hey ♡ I'm Rafaela</h2>
 
-<p align="center">Support Engineer in the making • Building solutions with AI</p>
+<p align="center">Fullstack developer in the making • Web apps, integrations and automation</p>
 
 ---
 
 ### About Me
 
-- Currently studying Systems Analysis and Development 
-- Background in technical support and web development  
-- Passionate about automating repetitive tasks using AI  
-- Building tools that reduce manual work and improve efficiency  
-- Learning React, improving SQL and exploring real-world problem solving  
+- Studying Systems Analysis and Development (UNINTER, graduating Jul/2027)
+- Building web apps with React, Next.js and Tailwind, with Node/Python on the back end and MySQL for data
+- Background in technical support, so I debug from the user's side and write code that's easier to maintain
+- Experience integrating APIs and payment platforms (Asaas, Hotmart, Guru) via webhooks 
 
 ---
 
