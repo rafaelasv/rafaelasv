@@ -45,7 +45,7 @@ Using AI to improve support efficiency and responses
 ### Let’s Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/rafaela-s-tavares/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a> [Portfolio](https://www.rafaelatavares.dev/) ·
+  <a href="https://www.linkedin.com/in/rafaela-s-tavares/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
