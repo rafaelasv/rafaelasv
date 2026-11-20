@@ -1,6 +1,6 @@
 <h2 align="center">Hey ♡ I'm Rafaela</h2>
 
-<p align="center">Junior fullstack developer • Web apps, integrations and AI automation</p>
+<p align="center">Fullstack developer • Web apps, integrations and AI automation</p>
 
 ---
 
